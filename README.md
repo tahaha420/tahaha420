@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Taha</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend developer and Data Science enthusiast</h3>
 
 - 🌱 I’m currently learning **front-end, back-end development as well as Data Science**
 
