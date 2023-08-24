@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Taha</h1>
-<h3 align="center">A passionate Frontend developer and Data Science enthusiast</h3>
+<h3 align="center">A passionate Data Scientist and Frontend developer and </h3>
 
-- 🌱 I’m currently learning **front-end, back-end development as well as Data Science**
+- 🌱 I’m currently learning **Data Science, front-end as well as back-end development **
 
 - 💬 Ask me about **Web Developement**
 
