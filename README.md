@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, front-end as well as back-end development **
 
-- 💬 Ask me about **Web Developement**
+- 💬 Ask me about **AI, ML amd Web Developement**
 
 - 📫 How to reach me **taha.pasha2099@gmail.com or Whatsapp at +92 3042265578**
 
