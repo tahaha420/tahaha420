@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Taha</h1>
 <h3 align="center">A passionate Data Scientist and Frontend developer </h3>
 
-- 🌱 I specialize in Data Science, front-end, and back-end development, continuously enhancing my skills to deliver impactful solutions.**
+- 🌱 I specialize in **Data Science, front-end, and back-end development**, continuously enhancing my skills to deliver impactful solutions.
 
 - 💬 Ask me about **AI, ML amd Web Developement**
 
